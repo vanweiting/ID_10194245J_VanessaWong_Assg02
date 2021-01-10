@@ -38,8 +38,8 @@ Search - allows users to search for any book
    3. When clicked on "Remove", it removes the most top row
 
 # Credits
-## Media
-* The book cover images on homepage, and "Book recommendations" page were obtained from Google images.
+## Content
+* When you click on a book, it will direct you to Amazon.
   * https://www.amazon.sg/Life-Pi-Yann-Martel/dp/0156027321/ref=sr_1_1?dchild=1&keywords=life+of+pi&qid=1609922613&s=books&sr=1-1
   * https://www.amazon.com/Three-Musketeers-Alexandre-Dumas/dp/1505234727
   * https://www.amazon.com/Call-Wild-Jack-London/dp/151239582X
@@ -70,3 +70,35 @@ Search - allows users to search for any book
   * https://www.amazon.com/Enders-Ender-Quintet-Orson-Scott/dp/0812550706
   * https://www.amazon.sg/Animal-Farm-George-Orwell/dp/0451526341
   * https://www.amazon.sg/Slaughterhouse-Five-Childrens-Crusade-Duty-Dance-Death/dp/0385333846
+## Media
+* The photos of the book covers used in this site were obtained from Google images
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FLife-Pi-Yann-Martel%2Fdp%2F0156027321&psig=AOvVaw3OLb74g-qSxwolWa8rY19n&ust=1610367998296000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDT07auke4CFQAAAAAdAAAAABAD
+  * https://images-na.ssl-images-amazon.com/images/I/41TxXqToCCL._SX348_BO1,204,203,200_.jpg
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.libris.ro%2Ffiction%2Faction-adventure&psig=AOvVaw2A0sZ3mWhJcSXIb2410VO-&ust=1610368154798000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD5yICvke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_First_Fifteen_Lives_of_Harry_August&psig=AOvVaw1yJxc4fnvtNpWYT_d8FHD4&ust=1610368188855000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiByJCvke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F49021976-rhythm-of-war&psig=AOvVaw2mUlL1RrK0Mu2qDZW1tqud&ust=1610368208303000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPie0pmvke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FFahrenheit-451-Ray-Bradbury%2Fdp%2F1451673310&psig=AOvVaw1hP5AhJtKmyiaRStNUgpQd&ust=1610368219699000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDeiZ-vke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F40221961-brazen-and-the-beast&psig=AOvVaw1AhtaxKxpPd3YLF-y9pN1w&ust=1610368242226000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIirtaqvke4CFQAAAAAdAAAAABAE
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F44300636-royal-holiday&psig=AOvVaw06S1XfoSl_AuZhGmlZ2oIA&ust=1610368257864000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC0qrGvke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fnicholassparks.com%2Fstories%2Fthe-notebook%2F&psig=AOvVaw34ev3OUaSugPutUzrp4GOl&ust=1610368350836000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDB3d2vke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F37584991-the-proposal&psig=AOvVaw0tgQ3mruEqv-uzsCVAbt8y&ust=1610368365215000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDWweSvke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F25883848-the-hating-game&psig=AOvVaw1DCORzavzpSSzWP5GXCMJ8&ust=1610368388534000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj2x--vke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F36336078-call-me-by-your-name&psig=AOvVaw3wkDV0YThENwh9uRwdnyYd&ust=1610368400751000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD5wfWvke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kobo.com%2Fsg%2Fen%2Febook%2Fthe-water-dancer-oprah-s-book-club&psig=AOvVaw2idpWeecKzmmINSPwQEX4N&ust=1610368423284000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDysoCwke4CFQAAAAAdAAAAABAI
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bookofthemonth.com%2Fcirce-352&psig=AOvVaw24uDZuoJVkQfThorCQPQ6D&ust=1610368439683000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCfxYiwke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.leighbardugo.com%2Fbook%2Fninth-house%2F&psig=AOvVaw0Q0ycKcOc1vNzKOYrXTEJz&ust=1610368457231000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDHupCwke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F49338237-spellbreaker&psig=AOvVaw0FVTjAl1kKGK4Gr4lg2S-y&ust=1610368471992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDzwJewke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FWizard-Earthsea-Cycle%2Fdp%2F0547773749&psig=AOvVaw1uxS-ZL-N8kF-PzMiJeRo6&ust=1610368488209000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj1mp-wke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FGame-Thrones-Song-Ice-Fire%2Fdp%2F0553103547&psig=AOvVaw1X0_lom7huiLSAFnbJnzeN&ust=1610368501455000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiZxqWwke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Testaments&psig=AOvVaw1eOHjR2VmfRau_U_DB1B43&ust=1610368517737000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICol62wke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Hunger_Games&psig=AOvVaw1sAACvuovJq9BbkHJRX6iM&ust=1610368545584000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLD397qwke4CFQAAAAAdAAAAABAE
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F40961427-1984&psig=AOvVaw1VM5dGLfs68VoDSZB2T7uB&ust=1610368561234000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCB58Kwke4CFQAAAAAdAAAAABAE
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEnder%2527s_Game&psig=AOvVaw3e1eCzmot_9poB6gR15s_Q&ust=1610368573561000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOje4Mewke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F170448.Animal_Farm&psig=AOvVaw2DS62GphCClMbXDv8oWqAG&ust=1610368586000000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCW7s2wke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FSlaughterhouse-Five-Novel-Modern-Library-Novels%2Fdp%2F0385333846&psig=AOvVaw0qkz_u3_oZPPkfpr8iQuUn&ust=1610368606008000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCkxtewke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kobo.com%2Fsg%2Fen%2Febook%2Fcarrie-2&psig=AOvVaw10FJaZCeqkj6V8hC7zUSOe&ust=1610368625745000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDF6eCwke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F89717.The_Haunting_of_Hill_House&psig=AOvVaw3w3lHnJPHT-P8G4s8vIP1J&ust=1610368639213000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDglOiwke4CFQAAAAAdAAAAABAJ
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBird_Box_(film)&psig=AOvVaw0oM3Xrtyh73fi6q-cEg7z6&ust=1610368663170000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD_3vKwke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FRosemarys-Baby-Ira-Levin%2Fdp%2F1605981109&psig=AOvVaw2QqC8PD0lE3CeiRWO39E1D&ust=1610368677064000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPikofmwke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FLord-Flies-William-Golding%2Fdp%2F0399501487&psig=AOvVaw2Dr1Y9Ai_pXi7ijTWVvbTG&ust=1610368691384000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiAk4Cxke4CFQAAAAAdAAAAABAD
+  * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.co.uk%2FNeed-About-Kevin-Serpents-Classics%2Fdp%2F1846687349&psig=AOvVaw1G_ZT3yONtlHU-9t2NepKP&ust=1610368701318000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCD4YSxke4CFQAAAAAdAAAAABAD
