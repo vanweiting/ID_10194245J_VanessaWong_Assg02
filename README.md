@@ -39,7 +39,7 @@ Search - allows users to search for any book
 
 # Credits
 ## Content
-* When you click on a book, it will direct you to Amazon.
+* When you click on a book, it will direct you to that book on Amazon.
   * https://www.amazon.sg/Life-Pi-Yann-Martel/dp/0156027321/ref=sr_1_1?dchild=1&keywords=life+of+pi&qid=1609922613&s=books&sr=1-1
   * https://www.amazon.com/Three-Musketeers-Alexandre-Dumas/dp/1505234727
   * https://www.amazon.com/Call-Wild-Jack-London/dp/151239582X
