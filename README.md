@@ -21,5 +21,15 @@ Search - allows users to search for any book
   * The project uses DreamWeaver to code the website using html, css and javascript.
   
 # Testing
-1. Read-list table
-   i. Item 3a
+1. Adding a new book to the table
+   1. Go to "Books I have read!"
+   2. Enter the "No.", the title of book and rate the book
+   3. Click "+ New book"
+1. Editing a book from the table
+   1. Select the row of the book you want to edit
+   2. Edit the column of the thing you want to edit
+   3. Click "Edit"
+1. Remove a book from the table
+   1. Select the row of the book you want to remove
+   2. Click "Remove"
+   
