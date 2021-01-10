@@ -21,4 +21,5 @@ Search - allows users to search for any book
   * The project uses DreamWeaver to code the website using html, css and javascript.
   
 # Testing
-1. hi
+1. Read-list table
+  i. hi
