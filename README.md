@@ -32,4 +32,41 @@ Search - allows users to search for any book
 1. Remove a book from the table
    1. Select the row of the book you want to remove
    2. Click "Remove"
-   
+1. Problems
+   1. Unable to select a row to edit
+   2. Unable to select a row to delete
+   3. When clicked on "Remove", it removes the most top row
+
+# Credits
+## Media
+* The book cover images on homepage, and "Book recommendations" page were obtained from Google images.
+  * https://www.amazon.sg/Life-Pi-Yann-Martel/dp/0156027321/ref=sr_1_1?dchild=1&keywords=life+of+pi&qid=1609922613&s=books&sr=1-1
+  * https://www.amazon.com/Three-Musketeers-Alexandre-Dumas/dp/1505234727
+  * https://www.amazon.com/Call-Wild-Jack-London/dp/151239582X
+  * https://www.amazon.com/First-Fifteen-Lives-Harry-August-ebook/dp/B00ECE9OD
+  * https://www.amazon.sg/Rhythm-War-Brandon-Sanderson/dp/0575093390/ref=asc_df_0575093390/?tag=googleshoppin-22&linkCode=df0&hvadid=460350891723&hvpos=&hvnetw=g&hvrand=4651759300428240251&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=2702&hvtargid=pla-919960014868&psc=1
+  * https://www.amazon.sg/Fahrenheit-451-Novel-Ray-Bradbury/dp/1451673310
+  * https://www.amazon.com/Water-Dancer-Novel-Ta-Nehisi-Coates/dp/0399590595
+  * https://www.amazon.sg/Circe-Madeline-Miller/dp/0316556343
+  * https://www.amazon.sg/Ninth-House-Stern-Leigh-Bardugo/dp/1250313074
+  * https://www.amazon.com/Spellbreaker-Charlie-N-Holmberg/dp/1542020093
+  * https://www.amazon.com/Wizard-Earthsea-Cycle/dp/0547773749
+  * https://www.amazon.in/Game-Thrones-Song-Ice-Fire/dp/0007428545
+  * https://www.amazon.com/Carrie-Stephen-King/dp/0307743667
+  * https://www.amazon.com/Haunting-Hill-House-Penguin-Classics/dp/0143039989
+  * https://www.amazon.com/Bird-Box-Novel-Josh-Malerman/dp/0062259652
+  * https://www.amazon.com/Rosemarys-Baby-Ira-Levin/dp/1605981109
+  * https://www.amazon.com/Lord-Flies-William-Golding/dp/0399501487
+  * https://www.amazon.com/We-Need-Talk-About-Kevin/dp/0062119044
+  * https://www.amazon.com/Brazen-Beast-Bareknuckle-Bastards-Book-ebook/dp/B07D6P4JK7
+  * https://www.amazon.com/Royal-Holiday-Jasmine-Guillory/dp/1984802216
+  * https://www.amazon.com/Notebook-Nicholas-Sparks/dp/1455582875
+  * https://www.amazon.sg/Proposal-Jasmine-Guillory/dp/0399587683/ref=asc_df_0399587683/?tag=googleshoppin-22&linkCode=df0&hvadid=389118768455&hvpos=&hvnetw=g&hvrand=7123024032607054637&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062505&hvtargid=pla-557216967481&psc=1
+  * https://www.amazon.sg/Hating-Game-Novel-Sally-Thorne/dp/0062439596
+  * https://www.amazon.sg/Call-Your-Name-Andr%C3%A9-Aciman/dp/1250169445
+  * https://www.amazon.com/Testaments-Novel-Margaret-Atwood/dp/0385543786
+  * https://www.amazon.com/Hunger-Games-Trilogy-Catching-Mockingjay/dp/1531831281
+  * https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934
+  * https://www.amazon.com/Enders-Ender-Quintet-Orson-Scott/dp/0812550706
+  * https://www.amazon.sg/Animal-Farm-George-Orwell/dp/0451526341
+  * https://www.amazon.sg/Slaughterhouse-Five-Childrens-Crusade-Duty-Dance-Death/dp/0385333846
