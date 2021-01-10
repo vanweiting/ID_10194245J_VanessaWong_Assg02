@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Read List | BooksList</title>
+<link href="reading&waitingListCss.css" rel="stylesheet" type="text/css">
+<link rel="icon" href="images/blLogo.png" type="image/gif" sizes="16x16">
+
+<style>
+    .tab-2{margin-top: 40px;}
+    tr{transition:all .25s ease-in-out}
+    tr:hover{background-color:white;cursor: pointer;}
+</style>
+
+</head>
+
+<body>
+    <table style="background-color: #D5D5D5; border: 1px solid #D5D5D5;">
+        <tr>
+            <th>
+              <a href="index.html"><img src="images/bookslistLogo.png" alt="BooksList logo" width="250"></a>
+            </th>
+            <th style="color: #D5D5D5;">OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOl</th>
+        </tr>
+    </table>
+
+<center>
+    <table style="border: 1px solid white;">
+        <tr>
+            <th><p style="font-size: 40px;">Books I have read!</p></th>
+            <th style="color: white;">OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO</th>
+            <th><a href="waitingList.html"><u style="color: white;"><p style="font-size: 40px; color: #000;">></p></u></a></th>
+        </tr>
+    </table>
+
+    <div class="container">
+        <div class="tab tab-1">
+            <table id="table" border="1">
+                <tr>
+                    <th><b><p>No.</p></b></th>
+                    <th><b><p>Book title</p></b></th>
+                    <th><b><p>Rating</p></b></th>
+                </tr>
+            </table>
+        </div>
+        <div class="tab tab-2">
+            No. :<input type="text" name="number" id="number">
+            Book title :<input type="text" name="btitle" id="btitle">
+            Rating :<input type="text" name="rating" id="rating">
+
+            <button onclick="addHtmlTableRow();">+ New book</button>
+            <button onclick="editHtmlTableSelectedRow();">Edit</button>
+            <button onclick="removeSelectedRow();">Remove</button>
+        </div>
+    </div>
+<br>
+<br>
+<br>
+
+    <table>
+        <tr>
+            <th style="border: 1px solid white; background-color: #FFDC00;"><a href="(bookRecommendations)actionAndAdventure.html"><u style="color: #FFDC00;"><p style="color: black;">Check out our recommended books ></p></u></a></th>
+        </tr>
+    </table>
+</center>
+
+<script src="readingListTable.js"></script>
+</body>
+</html>
